@@ -1,0 +1,5 @@
+GetNewFactIntent a Azim fact
+GetNewFactIntent a Azim fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a space fact
+GetNewFactIntent give me a fact
